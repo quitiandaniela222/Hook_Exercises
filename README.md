@@ -1,70 +1,35 @@
-# Getting Started with Create React App
+<h1 align="center"> Exercises on hooks in react</h1>
+<br>
+Project Description: <br> <br>
+The main objective of this project is to practice and do exercises in React that <br>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Thank you for visiting!
 
-## Available Scripts
+## :hammer: Key features of the project
 
-In the project directory, you can run:
+- ` Obtaining cryptocurrency data:`: The app will connect to a public cryptocurrency API using JavaScript API calls to get up-to-date price information and other relevant metrics for various digital currencies.
+- ` Real time update:`: The application will be designed to automatically refresh data and charts at regular intervals using timers and periodic API requests, so that users can keep up with changes in the cryptocurrency market.
+- ` Dribbble Inspired Design:`: The user interface will follow an aesthetic and functional design inspired by a high-quality visual model shared on Dribbble. This will ensure an attractive and professional user experience. <br>
 
-### `npm start`
+## 📁 Project access
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**Building and operating this project in your local development environment is very easy. Make sure you have Git and Node.js installed and follow the instructions below.**<br>
+- `Clone source code` git clone https://github.com/quitiandaniela222/Hook_Exercises.git
+- `Install development dependencies`
+Note: Check out the package.json engine for our supported and tested node versions.
+install npm
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- `Run a local development server`npm start 
 
-### `npm test`
+## Used Technology
+- `HTML`
+- `CSS`
+- `REACT.JS`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## Author
+|        |              |
+|--------|--------------|
+| <img src="https://avatars.githubusercontent.com/u/124717657?v=4" width=115><br> |
+| Daniela Quitian |
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
